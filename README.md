@@ -3,6 +3,8 @@ ChatWork Plugin for Jenkins
 
 A plugin for Jenkins that notifies to [ChatWork](http://www.chatwork.com/ja/). [[English Page](http://www.chatwork.com/)]
 
+気付いたら@vexus2さんのが本家に取り込まれてたので、 https://github.com/jenkinsci/chatwork-plugin を使ったほうがいいですね。
+
 Author
 ---------------------------
 
